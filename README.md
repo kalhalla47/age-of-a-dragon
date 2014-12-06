@@ -1,4 +1,4 @@
-age-of-a-dragon
+Age of a Dragon
 ===============
 
-2D side-scrolling platformer where you play as a recently-hatched baby dragon exploring the world
+In this game, you play as a baby dragon that has just hatched. You have very limited mobility and a narrow range of powers. As you complete levels of the game, you will age. Aging provides new powers including a breath weapon, flying, and more.
