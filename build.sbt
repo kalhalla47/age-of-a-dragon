@@ -1,5 +1,13 @@
 name := "Age of a Dragon"
 
-version := "1.0"
+version := "0.1"
 
-autoScalaLibrary = false
+scalaVersion := "2.11.6"
+
+javaOptions += ""
+
+fork in run := true
+
+libraryDependecies ++= Seq (
+	
+)
