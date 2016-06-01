@@ -1,12 +1,14 @@
 {
-  "name": "hellophaser",
+  "name": "age-of-a-dragon",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "Platformer where you play as a newly-hatched dragon",
+
+  "main": "main.js",
   "scripts": {
     "test": "test"
   },
-  "author": "",
+  "author": "kyle-hall <hallkd47@gmail.com>",
+  "repository": "https://github.com/kyle-hall/age-of-a-dragon",
   "license": "ISC",
   "devDependencies": {
     "express": "^4.13.4",
